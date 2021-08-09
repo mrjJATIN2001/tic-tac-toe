@@ -69,6 +69,7 @@ const App = () => {
       <h2 style={{ fontWeight: 'normal' }}>Current game history</h2>
       <History history={history} moveTo={moveTo} currentMove={currentMove} />
       <div className="bg-balls"></div>
+      <footer className="mrj">Designed & Developed MR_J</footer>
     </div>
   );
 };
