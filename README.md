@@ -1,3 +1,6 @@
+# Here is link to the deployed model
+https://mrj--tic-tac-toe.surge.sh
+
 # Nano React App Default Javascript Template
 
 The default template project for [nano-react-app](https://github.com/adrianmcli/nano-react-app).
